@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract TimeMint is Ownable { 
     IERC20 public paymentToken;
 
-    struct WorkSession {
+    struct WorkSession { 
         uint256 startTime;
         uint256 endTime;
         uint256 hoursWorked;
