@@ -23,4 +23,4 @@ To create a transparent and efficient system for freelancers to log their work a
 
 ## Contract Details
 0xf4E682Ad27C9961972dbBB83316639F5E79704d4
-![alt text](image.png)
+![alt text](image.png) 
