@@ -7,7 +7,7 @@ TimeMint is a decentralized platform that tokenizes freelancer work hours. It al
               
 To create a transparent and efficient system for freelancers to log their work and receive payments, reducing disputes and delays in compensation. TimeMint aims to redefine freelance labor by giving both freelancers and clients a verifiable, on-chain record of time and compensation. 
 
-## Key Features   
+## Key Features    
 
 - **Work Session Logging**: Freelancers can log their start time, end time, and hourly rate.
 - **Tokenized Payments**: Payments are made in ERC-20 tokens based on time worked.
