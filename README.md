@@ -1,7 +1,7 @@
 # Project Title: TimeMint: Tokenized Freelancer Work Hours
 Project done by Piyush Sharma.
 ## Project Description          
-TimeMint is a decentralized platform that tokenizes freelancer work hours. It allows freelancers to log their work sessions and receive payments in ERC-20 tokens, ensuring transparency and timely compensation._ 
+TimeMint is a decentralized platform that tokenizes freelancer work hours. It allows freelancers to log their work sessions and receive payments in ERC-20 tokens, ensuring transparency and timely compensation._  
    
 ## Project Vision          
               
